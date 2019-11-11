@@ -18,13 +18,21 @@ Mechanical keyboards related resources I have collected over the months.
 List of websites with their popular offerings which are usually in stock. Most of these websites provide kits, and assembly services on request.
 
 - [KeyHive](https://keyhive.xyz/shop)
-  - **Lily58 PRO** -  `58` `split` 
-  - **UT47.2** - `40` `staggard` `hot-swap` `usb-c`
+  - **Lily58 PRO** -  `60` `columnar-staggered` `split` 
+  - **UT47.2** - `40` `staggered` `hot-swap` `usb-c`
+	- **Nightmare** - `40` `staggered`
+	- **Corne Helidox** - `40` `columnar-staggered` `split` `hot-swap`
+	- **Ergo42** - `40` `ortholinear` `split`
 - [OLKB](https://olkb.com/)
   - **Planck** - `40` `ortholinear` `hot-swap` `usb-c`
   - **Preonic** - `50` `ortholinear` `hot-swap` `usb-c`
 - [Keebio](https://keeb.io/)
-  - **Iris** - `columnar-staggard` `split`
+  - **Iris** - `columnar-staggered` `split`
+	- **Quefrency** - `60/65` `split` `staggered`
+	- **Nyquist** - `60` `split` `ortholinear`
+	- **Levinson** - `40` `split` `ortholinear` 
+	- **Viterbi** - `70` `split` `ortholinear`
+	- **BFO-9000** - `100` `split` `ortholinear`
 - [UniKeyboard](https://unikeyboard.io/) 
 - [Profet Keyboards](https://shop.profetkeyboards.com/)
 - [KPrepublic](https://kprepublic.com/)
@@ -84,7 +92,7 @@ List of websites with their popular offerings which are usually in stock. Most o
 
 #### Handwire Guides
 
-- [jacekplonowski/arch_40](https://github.com/jacekplonowski/arch_40) - `40` `columnar-stagger` 
+- [jacekplonowski/arch_40](https://github.com/jacekplonowski/arch_40) - `40` `columnar-staggered` 
 
 #### Other Awesome GitHub Repositories
 
