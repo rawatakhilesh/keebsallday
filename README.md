@@ -1,12 +1,17 @@
 # keebs
 
-Mechanical keyboards related bookmarks I have collected over the years. In progress.
+Mechanical keyboards related resources I have collected over the years. In progress.
 
 ## Keyboards
 
+[r/mk](https://www.reddit.com/r/MechanicalKeyboards/) wiki has all the resources
+ one needs to know about custom mechanical keyboards. This is just a collection 
+ of links for people who are beginning to tinker into this hobby and see what is
+  readily available.
+
 ### Websites
 
-List of websites with their popular offering which are usually in stock.
+List of websites with their popular offering which are usually in stock. Most of these webistes provide kits and assembly services on request.
 
 #### [KeyHive](https://keyhive.xyz/shop)
 
@@ -26,11 +31,7 @@ List of websites with their popular offering which are usually in stock.
 
 #### [Flashquark](https://flashquark.com/)
 
-#### [switchTop](https://www.switchtop.com/)
-
 #### [RAMA WORKS](https://rama.works/)
-
-#### [Mountain Blocks](https://mountainblocks.com/)
 
 #### [1upkeyboards](https://www.1upkeyboards.com/)
 
@@ -58,13 +59,17 @@ List of websites with their popular offering which are usually in stock.
 
 #### [KBDfans](https://kbdfans.com/)
 
-#### [NeoMutt](https://neomutt.org/)
-
 #### [Clueboard](https://clueboard.co/)
 
 #### [Qlavier](https://www.qlavier.com/shop/)
 
 #### [PIMP MY KEYBOARD](https://pimpmykeyboard.com/)
+
+### Keyboard Supplies
+
+#### [switchTop](https://www.switchtop.com/)
+
+#### [Mountain Blocks](https://mountainblocks.com/)
 
 ### Keycaps
 
@@ -83,6 +88,9 @@ List of websites with their popular offering which are usually in stock.
 
 ### Open Source Resources
 
-### GitHub Repositories
+### Other Awesome GitHub Repositories
 
 ### Handwire Guides
+
+### Group buys
+
