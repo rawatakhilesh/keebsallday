@@ -7,7 +7,7 @@ Mechanical keyboards related resources I have collected over the years. In progr
 [r/mk](https://www.reddit.com/r/MechanicalKeyboards/) wiki has all the resources
  one needs to know about custom mechanical keyboards. This is just a collection 
  of links for people who are beginning to tinker into this hobby and see what is
-  readily available.
+ readily available.
 
 ### Websites
 
@@ -15,7 +15,17 @@ List of websites with their popular offering which are usually in stock. Most of
 
 #### [KeyHive](https://keyhive.xyz/shop)
 
+-	Lily58 PRO 
+	- A 58 key split keyboard
+-	UT47.2
+	-	40% staggerd layout
+
 #### [OLKB](https://olkb.com/)
+
+- Planck
+	-	40% ortholinear
+- Preonic
+  - 50% ortholinear
 
 #### [Keebio](https://keeb.io/)
 
