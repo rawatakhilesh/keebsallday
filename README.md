@@ -33,6 +33,10 @@ List of websites with their popular offerings which are usually in stock. Most o
 	- **Levinson** - `40` `split` `ortholinear` 
 	- **Viterbi** - `70` `split` `ortholinear`
 	- **BFO-9000** - `100` `split` `ortholinear`
+  - **Iris** - `columnar-staggard` `split`
+- [ErgoDox EZ](https://ergodox-ez.com/)
+  - **Ergodox EZ** - `columnar-staggard` `split` `hot-swap` `usb-c`
+  - **Planck EZ** - `40` `ortholinear` `hot-swap` `usb-c`
 - [UniKeyboard](https://unikeyboard.io/) 
 - [Profet Keyboards](https://shop.profetkeyboards.com/)
 - [KPrepublic](https://kprepublic.com/)
