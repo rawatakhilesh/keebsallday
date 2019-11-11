@@ -1,4 +1,4 @@
-# keebs
+# Keebs
 
 Mechanical keyboards related resources I have collected over the years. In progress.
 
@@ -28,6 +28,9 @@ List of websites with their popular offering which are usually in stock. Most of
   - 50% ortholinear
 
 #### [Keebio](https://keeb.io/)
+
+- Iris
+  - 4x6 vertically staggard split keyboard
 
 #### [UniKeyboard](https://unikeyboard.io/) 
 
