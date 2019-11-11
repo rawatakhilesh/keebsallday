@@ -1,6 +1,10 @@
-# Keebs
+# All About Keebs
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+[![Generic badge](https://img.shields.io/badge/In-progress-<COLOR>.svg)](https://shields.io/)
+[![GitHub contributors](https://img.shields.io/github/contributors/Naereen/StrapDown.js.svg)](https://github.com/rawatakhilesh/keebs/graphs/contributors)
+[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 
-Mechanical keyboards related resources I have collected over the years. In progress.
+Mechanical keyboards related resources I have collected over the months.
 
 ## Keyboards
 
@@ -11,16 +15,16 @@ Mechanical keyboards related resources I have collected over the years. In progr
 
 ### Websites
 
-List of websites with their popular offering which are usually in stock. Most of these webistes provide kits and assembly services on request.
+List of websites with their popular offerings which are usually in stock. Most of these webistes provide kits and assembly services on request.
 
 - [KeyHive](https://keyhive.xyz/shop)
-  - **Lily58 PRO** - A 58 key split keyboard
-  - **UT47.2** - 40% staggerd layout
+  - **Lily58 PRO** -  `58` `split` 
+  - **UT47.2** - `40` `staggard` `usb-c` `hot-swap`
 - [OLKB](https://olkb.com/)
-  - **Planck** - 40% ortholinear
-  - **Preonic** - 50% ortholinear
+  - **Planck** - `40` `ortholinear` `hot-swap` `usb-c`
+  - **Preonic** - `50` `ortholinear` `hot-swap` `usb-c`
 - [Keebio](https://keeb.io/)
-  - **Iris** - 4*6 vertically staggard split keyboard
+  - **Iris** - `vertically-staggard` `split`
 - [UniKeyboard](https://unikeyboard.io/) 
 - [Profet Keyboards](https://shop.profetkeyboards.com/)
 - [KPrepublic](https://kprepublic.com/)
@@ -85,5 +89,5 @@ List of websites with their popular offering which are usually in stock. Most of
 - [BenRoe/awesome-mechanical-keyboard](https://github.com/BenRoe/awesome-mechanical-keyboard) - a more detailed list of curated keyboard resources
 - [help-14/mechanical-keyboard](https://github.com/help-14/mechanical-keyboard) - another detailed list of keyboards ordered by type
 	
-### Group buys
 
+[![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/Naereen/badges)
