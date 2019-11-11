@@ -7,7 +7,7 @@ Mechanical keyboards related resources I have collected over the years. In progr
 [r/mk](https://www.reddit.com/r/MechanicalKeyboards/) wiki has all the resources
  one needs to know about custom mechanical keyboards. This is just a collection 
  of links for people who are beginning to tinker into this hobby and see what is
- readily available.
+ readily available. I hope it's helpful.
 
 ### Websites
 
@@ -78,19 +78,24 @@ List of websites with their popular offering which are usually in stock. Most of
 
 #### [PIMP MY KEYBOARD](https://pimpmykeyboard.com/)
 
+#### [MechanicalKeyboards](https://mechanicalkeyboards.com/shop/)
+
+#### [WASD Keyboards](https://www.wasdkeyboards.com/)
+
 ### Keyboard Supplies
 
-#### [switchTop](https://www.switchtop.com/)
-
-#### [Mountain Blocks](https://mountainblocks.com/)
+- [switchTop](https://www.switchtop.com/)
+- [Mountain Blocks](https://mountainblocks.com/)
 
 ### Keycaps
 
 ### Cables
 
-#### [Dream Cables](https://www.dream-cables.com/)
-
-#### [Zap Cables](https://zapcables.com/)
+- [Dream Cables](https://www.dream-cables.com/)
+- [Zap Cables](https://zapcables.com/)
+- [CruzCtrl Cables](https://cruzctrl.gg/)
+- [Clark Kable](https://clarkkable.com/)
+- [Winnja](https://www.winnja.com/)
 
 ### YouTube
 
