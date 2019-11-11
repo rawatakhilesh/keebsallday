@@ -15,7 +15,7 @@ Mechanical keyboards related resources I have collected over the months.
 
 ### Websites
 
-List of websites with their popular offerings which are usually in stock. Most of these webistes provide kits and assembly services on request.
+List of websites with their popular offerings which are usually in stock. Most of these websites provide kits, and assembly services on request.
 
 - [KeyHive](https://keyhive.xyz/shop)
   - **Lily58 PRO** -  `58` `split` 
