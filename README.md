@@ -120,6 +120,8 @@ List of websites with their popular offering which are usually in stock. Most of
 
 - [BenRoe/awesome-mechanical-keyboard](https://github.com/BenRoe/awesome-mechanical-keyboard)
   - a more detailed list of curated keyboard resources
+- [help-14/mechanical-keyboard](https://github.com/help-14/mechanical-keyboard)
+	- another detailed list of keyboards ordered by type
 	
 ### Group buys
 
