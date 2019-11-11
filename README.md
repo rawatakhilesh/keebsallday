@@ -27,7 +27,7 @@ List of websites with their popular offerings which are usually in stock. Most o
   - **Planck** - `40` `ortholinear` `hot-swap` `usb-c`
   - **Preonic** - `50` `ortholinear` `hot-swap` `usb-c`
 - [Keebio](https://keeb.io/)
-  - **Iris** - `columnar-staggered` `split`
+  - **Iris** - `50` `columnar-staggered` `split`
   - **Quefrency** - `60/65` `split` `staggered`
   - **Nyquist** - `60` `split` `ortholinear`
   - **Levinson** - `40` `split` `ortholinear` 
