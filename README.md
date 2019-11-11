@@ -52,14 +52,14 @@ List of websites with their popular offerings which are usually in stock. Most o
 - [WASD Keyboards](https://www.wasdkeyboards.com/)
 - [Little Keyboards](https://www.littlekeyboards.com/)
 
-### Keyboard Supplies
+### Keyboard Supplies and Accessories
 
 - [switchTop](https://www.switchtop.com/)
 - [Mountain Blocks](https://mountainblocks.com/)
 
-### Keycaps
+#### Keycaps
 
-### Cables
+#### Cables
 
 - [Dream Cables](https://www.dream-cables.com/)
 - [Zap Cables](https://zapcables.com/)
@@ -67,7 +67,8 @@ List of websites with their popular offerings which are usually in stock. Most o
 - [Clark Kable](https://clarkkable.com/)
 - [Winnja](https://www.winnja.com/)
 
-### YouTube
+
+### YouTube Channels
 
 - [Taeha Types](https://www.youtube.com/user/FeelgHoodMusic)
 - [minimalistik](https://www.youtube.com/channel/UCZv7dyFdg4DIph6TIBlaVSQ)
