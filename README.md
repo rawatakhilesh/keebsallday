@@ -9,9 +9,9 @@ Mechanical keyboards related resources I have collected over the months.
 ## Keyboards
 
 [r/mk](https://www.reddit.com/r/MechanicalKeyboards/) wiki has all the resources
- one needs to know about custom mechanical keyboards. This is just a collection 
+ one needs to know about custom mechanical keyboards. This is a concise collection 
  of links for people who are beginning to tinker into this hobby and see what is
- readily available. I hope it's helpful.
+ readily available. 
 
 ### Websites
 
@@ -19,7 +19,7 @@ List of websites with their popular offerings which are usually in stock. Most o
 
 - [KeyHive](https://keyhive.xyz/shop)
   - **Lily58 PRO** -  `58` `split` 
-  - **UT47.2** - `40` `staggard` `usb-c` `hot-swap`
+  - **UT47.2** - `40` `staggard` `hot-swap` `usb-c`
 - [OLKB](https://olkb.com/)
   - **Planck** - `40` `ortholinear` `hot-swap` `usb-c`
   - **Preonic** - `50` `ortholinear` `hot-swap` `usb-c`
