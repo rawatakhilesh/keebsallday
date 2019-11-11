@@ -24,7 +24,7 @@ List of websites with their popular offerings which are usually in stock. Most o
   - **Planck** - `40` `ortholinear` `hot-swap` `usb-c`
   - **Preonic** - `50` `ortholinear` `hot-swap` `usb-c`
 - [Keebio](https://keeb.io/)
-  - **Iris** - `vertically-staggard` `split`
+  - **Iris** - `columnar-staggard` `split`
 - [UniKeyboard](https://unikeyboard.io/) 
 - [Profet Keyboards](https://shop.profetkeyboards.com/)
 - [KPrepublic](https://kprepublic.com/)
@@ -50,6 +50,7 @@ List of websites with their popular offerings which are usually in stock. Most o
 - [PIMP MY KEYBOARD](https://pimpmykeyboard.com/)
 - [MechanicalKeyboards](https://mechanicalkeyboards.com/shop/)
 - [WASD Keyboards](https://www.wasdkeyboards.com/)
+- [Little Keyboards](https://www.littlekeyboards.com/)
 
 ### Keyboard Supplies
 
@@ -78,16 +79,15 @@ List of websites with their popular offerings which are usually in stock. Most o
 #### Keyboard firmware
 
 - [QMK](https://qmk.fm/)
-- [TMK](https://github.com/tmk/tmk_keyboard)	
+- [TMK](https://github.com/tmk/tmk_keyboard)
 
 #### Handwire Guides
 
-- [jacekplonowski/arch_40](https://github.com/jacekplonowski/arch_40) - 40% columnar stagger keyboard project
+- [jacekplonowski/arch_40](https://github.com/jacekplonowski/arch_40) - `40` `columnar-stagger` 
 
 #### Other Awesome GitHub Repositories
 
-- [BenRoe/awesome-mechanical-keyboard](https://github.com/BenRoe/awesome-mechanical-keyboard) - a more detailed list of curated keyboard resources
-- [help-14/mechanical-keyboard](https://github.com/help-14/mechanical-keyboard) - another detailed list of keyboards ordered by type
-	
+- [BenRoe/awesome-mechanical-keyboard](https://github.com/BenRoe/awesome-mechanical-keyboard) - a more detailed list of curated keyboard resources.
+- [help-14/mechanical-keyboard](https://github.com/help-14/mechanical-keyboard) - another detailed list of keyboards ordered by type.
 
 [![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/Naereen/badges)
