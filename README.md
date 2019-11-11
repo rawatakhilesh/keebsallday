@@ -35,18 +35,18 @@ List of websites with their popular offerings which are usually in stock. Most o
   - **Viterbi** - `70` `split` `ortholinear`
   - **BFO-9000** - `100` `split` `ortholinear`
 - [ErgoDox EZ](https://ergodox-ez.com/)
-  - **Ergodox EZ** - `60` `split` `columnar-staggard` `hot-swap` `usb-c`
+  - **Ergodox EZ** - `60` `split` `columnar-staggered` `hot-swap` `usb-c`
   - **Planck EZ** - `40` `ortholinear` `hot-swap` `usb-c`
 - [UniKeyboard](https://unikeyboard.io/) 
-	- **Diverge 4** - `70` `split` `columnar-staggard` `usb-c`
+	- **Diverge 4** - `70` `split` `columnar-staggered` `usb-c`
 	- **Diverge TM 2** - `40` `split` `ortholinear`
 	- **Terminus 2** - `60` `ortholinear`
 	- **Terminus Mini 2** - `40` `ortholinear`
 - [Profet Keyboards](https://shop.profetkeyboards.com/)
-	- **Atreus62** - `60` `columnar-staggard`
+	- **Atreus62** - `60` `columnar-staggered`
 	- **Ergodox** - `60` `split` `columnar-staggered`
 	- **MiniDox** - `40` `split` `columnar-staggered`
-	- **Atreus** - `40` `columnar-staggard`
+	- **Atreus** - `40` `columnar-staggered`
 - [KPrepublic](https://kprepublic.com/)
 - [Prime Keyboards](https://www.primekb.com/collections/keyboards)
 - [TheVan Keyboards](https://thevankeyboards.com/)
