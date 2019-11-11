@@ -21,6 +21,7 @@ List of websites with their popular offering which are usually in stock. Most of
   - **Preonic** - 50% ortholinear
 - [Keebio](https://keeb.io/)
   - **Iris** - 4*6 vertically staggard split keyboard
+- [ErgoDox EZ](https://ergodox-ez.com/)	
 - [UniKeyboard](https://unikeyboard.io/) 
 - [Profet Keyboards](https://shop.profetkeyboards.com/)
 - [KPrepublic](https://kprepublic.com/)
