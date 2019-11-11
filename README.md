@@ -111,15 +111,15 @@ List of websites with their popular offering which are usually in stock. Most of
 - [QMK](https://qmk.fm/)
 - [TMK](https://github.com/tmk/tmk_keyboard)	
 
-### Other Awesome GitHub Repositories
-
-- [BenRoe/awesome-mechanical-keyboard](https://github.com/BenRoe/awesome-mechanical-keyboard)
-  - a more detailed list of curated keyboard resources
-	
-### Handwire Guides
+#### Handwire Guides
 
 - https://github.com/jacekplonowski/arch_40
 	-  40% columnar stagger keyboard project
 
+#### Other Awesome GitHub Repositories
+
+- [BenRoe/awesome-mechanical-keyboard](https://github.com/BenRoe/awesome-mechanical-keyboard)
+  - a more detailed list of curated keyboard resources
+	
 ### Group buys
 
