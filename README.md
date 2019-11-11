@@ -13,81 +13,76 @@ Mechanical keyboards related resources I have collected over the years. In progr
 
 List of websites with their popular offering which are usually in stock. Most of these webistes provide kits and assembly services on request.
 
-#### [KeyHive](https://keyhive.xyz/shop)
+- [KeyHive](https://keyhive.xyz/shop)
+  - **Lily58 PRO** - A 58 key split keyboard
+  - **UT47.2** - 40% staggerd layout
 
--	Lily58 PRO 
-	- A 58 key split keyboard
--	UT47.2
-	-	40% staggerd layout
+- [OLKB](https://olkb.com/)
+  - **Planck** - 40% ortholinear
+  - **Preonic** - 50% ortholinear
 
-#### [OLKB](https://olkb.com/)
+- [Keebio](https://keeb.io/)
+  - **Iris** - 4*6 vertically staggard split keyboard
 
-- Planck
-	-	40% ortholinear
-- Preonic
-  - 50% ortholinear
+- [UniKeyboard](https://unikeyboard.io/) 
 
-#### [Keebio](https://keeb.io/)
+- [Profet Keyboards](https://shop.profetkeyboards.com/)
 
-#### [UniKeyboard](https://unikeyboard.io/) 
+- [KPrepublic](https://kprepublic.com/)
 
-#### [Profet Keyboards](https://shop.profetkeyboards.com/)
+- [Prime Keyboards](https://www.primekb.com/collections/keyboards)
 
-#### [KPrepublic](https://kprepublic.com/)
+- [TheVan Keyboards](https://thevankeyboards.com/)
 
-#### [Prime Keyboards](https://www.primekb.com/collections/keyboards)
+- [Flashquark](https://flashquark.com/)
 
-#### [TheVan Keyboards](https://thevankeyboards.com/)
+- [RAMA WORKS](https://rama.works/)
 
-#### [Flashquark](https://flashquark.com/)
+- [1upkeyboards](https://www.1upkeyboards.com/)
 
-#### [RAMA WORKS](https://rama.works/)
+- [LAZYDESIGNERS](http://lazydesigners.cn/)
 
-#### [1upkeyboards](https://www.1upkeyboards.com/)
+- [Cannon Keys](https://cannonkeys.com/)
 
-#### [LAZYDESIGNERS](http://lazydesigners.cn/)
+- [Keycult](https://keycult.io/)
 
-#### [Cannon Keys](https://cannonkeys.com/)
+- [Mekanisk](https://mekanisk.co/)
 
-#### [Keycult](https://keycult.io/)
+- [5z6p Instruments](https://5z6p.com/)
 
-#### [Mekanisk](https://mekanisk.co/)
+- [Mechanical Keyboards | Drop](https://drop.com/mechanical-keyboards/drops)
 
-#### [5z6p Instruments](https://5z6p.com/)
+- [Wooting](https://wooting.io/)
 
-#### [Mechanical Keyboards | Drop](https://drop.com/mechanical-keyboards/drops)
+- [Shopkey](https://shopkey.doyustudio.com/)
 
-#### [Wooting](https://wooting.io/)
+- [NovelKeys](https://novelkeys.xyz/)
 
-#### [Shopkey](https://shopkey.doyustudio.com/)
+- [Play Keyboard](https://play-keyboard.store/)
 
-#### [NovelKeys](https://novelkeys.xyz/)
+- [RGBKB.net](https://www.rgbkb.net/)
 
-#### [Play Keyboard](https://play-keyboard.store/)
+- [KBDfans](https://kbdfans.com/)
 
-#### [RGBKB.net](https://www.rgbkb.net/)
+- [Clueboard](https://clueboard.co/)
 
-#### [KBDfans](https://kbdfans.com/)
+- [Qlavier](https://www.qlavier.com/shop/)
 
-#### [Clueboard](https://clueboard.co/)
-
-#### [Qlavier](https://www.qlavier.com/shop/)
-
-#### [PIMP MY KEYBOARD](https://pimpmykeyboard.com/)
+- [PIMP MY KEYBOARD](https://pimpmykeyboard.com/)
 
 ### Keyboard Supplies
 
-#### [switchTop](https://www.switchtop.com/)
+- [switchTop](https://www.switchtop.com/)
 
-#### [Mountain Blocks](https://mountainblocks.com/)
+- [Mountain Blocks](https://mountainblocks.com/)
 
 ### Keycaps
 
 ### Cables
 
-#### [Dream Cables](https://www.dream-cables.com/)
+- [Dream Cables](https://www.dream-cables.com/)
 
-#### [Zap Cables](https://zapcables.com/)
+- [Zap Cables](https://zapcables.com/)
 
 ### YouTube
 
@@ -100,7 +95,7 @@ List of websites with their popular offering which are usually in stock. Most of
 
 ### Other Awesome GitHub Repositories
 
+- [BenRoe/awesome-mechanical-keyboard](https://github.com/BenRoe/awesome-mechanical-keyboard)
+  - a more detailed list of curated keyboard resources
+
 ### Handwire Guides
-
-### Group buys
-
