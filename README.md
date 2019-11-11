@@ -25,6 +25,7 @@ List of websites with their popular offerings which are usually in stock. Most o
   - **Preonic** - `50` `ortholinear` `hot-swap` `usb-c`
 - [Keebio](https://keeb.io/)
   - **Iris** - `columnar-staggard` `split`
+- [ErgoDox EZ](https://ergodox-ez.com/)	
 - [UniKeyboard](https://unikeyboard.io/) 
 - [Profet Keyboards](https://shop.profetkeyboards.com/)
 - [KPrepublic](https://kprepublic.com/)
