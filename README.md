@@ -3,7 +3,7 @@
 [![Generic badge](https://img.shields.io/badge/In-progress-<COLOR>.svg)](https://shields.io/)
 [![GitHub contributors](https://img.shields.io/github/contributors/Naereen/StrapDown.js.svg)](https://github.com/rawatakhilesh/keebs/graphs/contributors)
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
-[![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://saythanks.io/to/kennethreitz)
+[![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://github.com/rawatakhilesh/keebs/stargazers)
 
 Mechanical keyboards related resources I have collected over the months.
 
