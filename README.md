@@ -20,20 +20,19 @@ List of websites with their popular offerings which are usually in stock. Most o
 - [KeyHive](https://keyhive.xyz/shop)
   - **Lily58 PRO** -  `60` `columnar-staggered` `split` 
   - **UT47.2** - `40` `staggered` `hot-swap` `usb-c`
-	- **Nightmare** - `40` `staggered`
-	- **Corne Helidox** - `40` `columnar-staggered` `split` `hot-swap`
-	- **Ergo42** - `40` `ortholinear` `split`
+  - **Nightmare** - `40` `staggered`
+  - **Corne Helidox** - `40` `columnar-staggered` `split` `hot-swap`
+  - **Ergo42** - `40` `ortholinear` `split`
 - [OLKB](https://olkb.com/)
   - **Planck** - `40` `ortholinear` `hot-swap` `usb-c`
   - **Preonic** - `50` `ortholinear` `hot-swap` `usb-c`
 - [Keebio](https://keeb.io/)
   - **Iris** - `columnar-staggered` `split`
-	- **Quefrency** - `60/65` `split` `staggered`
-	- **Nyquist** - `60` `split` `ortholinear`
-	- **Levinson** - `40` `split` `ortholinear` 
-	- **Viterbi** - `70` `split` `ortholinear`
-	- **BFO-9000** - `100` `split` `ortholinear`
-  - **Iris** - `columnar-staggard` `split`
+  - **Quefrency** - `60/65` `split` `staggered`
+  - **Nyquist** - `60` `split` `ortholinear`
+  - **Levinson** - `40` `split` `ortholinear` 
+  - **Viterbi** - `70` `split` `ortholinear`
+  - **BFO-9000** - `100` `split` `ortholinear`
 - [ErgoDox EZ](https://ergodox-ez.com/)
   - **Ergodox EZ** - `columnar-staggard` `split` `hot-swap` `usb-c`
   - **Planck EZ** - `40` `ortholinear` `hot-swap` `usb-c`
