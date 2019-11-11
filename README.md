@@ -16,7 +16,7 @@ Mechanical keyboards related resources I have collected over the months.
 
 ### Websites
 
-List of websites with their popular offerings which are usually in stock. Most of these websites provide kits, and assembly services on request.
+List of websites with their popular offerings which are usually in stock. Most of these websites provide pcbs, full kits, and assembly services on request.
 
 - [KeyHive](https://keyhive.xyz/shop)
   - **Lily58 PRO** -  `60` `split` `columnar-staggered` 
@@ -39,8 +39,14 @@ List of websites with their popular offerings which are usually in stock. Most o
   - **Planck EZ** - `40` `ortholinear` `hot-swap` `usb-c`
 - [UniKeyboard](https://unikeyboard.io/) 
 	- **Diverge 4** - `70` `split` `columnar-staggard` `usb-c`
-	- **Diverge TM 2** - `40` `ortholinear`
+	- **Diverge TM 2** - `40` `split` `ortholinear`
+	- **Terminus 2** - `60` `ortholinear`
+	- **Terminus Mini 2** - `40` `ortholinear`
 - [Profet Keyboards](https://shop.profetkeyboards.com/)
+	- **Atreus62** - `60` `columnar-staggard`
+	- **Ergodox** - `60` `split` `columnar-staggered`
+	- **MiniDox** - `40` `split` `columnar-staggered`
+	- **Atreus** - `40` `columnar-staggard`
 - [KPrepublic](https://kprepublic.com/)
 - [Prime Keyboards](https://www.primekb.com/collections/keyboards)
 - [TheVan Keyboards](https://thevankeyboards.com/)
