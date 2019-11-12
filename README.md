@@ -55,7 +55,7 @@ List of websites with their popular offerings which are usually in stock. Most o
 	- **XD75** - `60` `ortholinear` `hot-swap`
 	- **XD84** - `75` `staggered`
 	- **XD96** - `90` `staggered`
-	-	**Ergodone** - `60` `columnar-staggered`
+	-	**Ergodone** - `60` `split` `columnar-staggered`
 - [Prime Keyboards](https://www.primekb.com/collections/keyboards)
 - [TheVan Keyboards](https://thevankeyboards.com/)
 - [Flashquark](https://flashquark.com/)
