@@ -19,24 +19,24 @@ Mechanical keyboards related resources I have collected over the months.
 List of websites with their popular offerings which are usually in stock. Most of these websites provide pcbs, full kits, and assembly services on request.
 
 - [KeyHive](https://keyhive.xyz/shop)
-  - **Lily58 PRO** -  `60` `split` `columnar-staggered` 
-  - **UT47.2** - `40` `staggered` `hot-swap` `usb-c`
-  - **Nightmare** - `40` `staggered`
-  - **Corne Helidox** - `40` `split` `columnar-staggered` `hot-swap`
-  - **Ergo42** - `40` `split` `ortholinear`
+	- **Lily58 PRO** -  `60` `split` `columnar-staggered` 
+	- **UT47.2** - `40` `staggered` `hot-swap` `usb-c`
+	- **Nightmare** - `40` `staggered`
+	- **Corne Helidox** - `40` `split` `columnar-staggered` `hot-swap`
+	- **Ergo42** - `40` `split` `ortholinear`
 - [OLKB](https://olkb.com/)
-  - **Planck** - `40` `ortholinear` `hot-swap` `usb-c`
-  - **Preonic** - `50` `ortholinear` `hot-swap` `usb-c`
+	- **Planck** - `40` `ortholinear` `hot-swap` `usb-c`
+	- **Preonic** - `50` `ortholinear` `hot-swap` `usb-c`
 - [Keebio](https://keeb.io/)
-  - **Iris** - `50` `split` `columnar-staggered`
-  - **Quefrency** - `60/65` `split` `staggered`
-  - **Nyquist** - `60` `split` `ortholinear`
-  - **Levinson** - `40` `split` `ortholinear` 
-  - **Viterbi** - `70` `split` `ortholinear`
-  - **BFO-9000** - `100` `split` `ortholinear`
+	- **Iris** - `50` `split` `columnar-staggered`
+	- **Quefrency** - `60/65` `split` `staggered`
+	- **Nyquist** - `60` `split` `ortholinear`
+	- **Levinson** - `40` `split` `ortholinear` 
+	- **Viterbi** - `70` `split` `ortholinear`
+	- **BFO-9000** - `100` `split` `ortholinear`
 - [ErgoDox EZ](https://ergodox-ez.com/)
-  - **Ergodox EZ** - `60` `split` `columnar-staggered` `hot-swap` `usb-c`
-  - **Planck EZ** - `40` `ortholinear` `hot-swap` `usb-c`
+	- **Ergodox EZ** - `60` `split` `columnar-staggered` `hot-swap` `usb-c`
+	- **Planck EZ** - `40` `ortholinear` `hot-swap` `usb-c`
 - [UniKeyboard](https://unikeyboard.io/) 
 	- **Diverge 4** - `70` `split` `columnar-staggered` `usb-c`
 	- **Diverge TM 2** - `40` `split` `ortholinear`
