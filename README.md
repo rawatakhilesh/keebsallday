@@ -12,7 +12,7 @@ Mechanical keyboards related resources I have collected over the months.
 [r/mk](https://www.reddit.com/r/MechanicalKeyboards/) wiki has all the resources
  one needs to know about custom mechanical keyboards. This is a concise collection 
  of links for people who are beginning to tinker into this hobby and see what is
- readily available. 
+ readily available.
 
 ### Websites
 
@@ -48,16 +48,14 @@ List of websites with their popular offerings which are usually in stock. Most o
 	- **MiniDox** - `40` `split` `columnar-staggered`
 	- **Atreus** - `40` `columnar-staggered`
 - [KPrepublic](https://kprepublic.com/)
-	- **JJ40** - `40`
-	- **Daisy**	-	`40`
-	- **JJ50** - `50`
-	- **Satan60**	-	`60`
-	- **XD64** - `60`
-	- **JJ60A**	-	`60`
-	- **XD75** - `60`
-	- **XD84** - `75`
-	- **XD96** - `90`
-	-	**Ergodone** - `60`
+	- **JJ40** - `40` `ortholinear`
+	- **Daisy**	-	`40` `staggered`
+	- **JJ50** - `50` `ortholinear`
+	- **XD64** - `60` `staggered` `usb-c`
+	- **XD75** - `60` `ortholinear` `hot-swap`
+	- **XD84** - `75` `staggered`
+	- **XD96** - `90` `staggered`
+	-	**Ergodone** - `60` `columnar-staggered`
 - [Prime Keyboards](https://www.primekb.com/collections/keyboards)
 - [TheVan Keyboards](https://thevankeyboards.com/)
 - [Flashquark](https://flashquark.com/)
