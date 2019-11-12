@@ -72,7 +72,7 @@ let me know if you find any mistakes or feel free to contribute.
 - [Keycult](https://keycult.io/)
 - [Mekanisk](https://mekanisk.co/)
 - [5z6p Instruments](https://5z6p.com/)
-- [Mechanical Keyboards | Drop](https://drop.com/mechanical-keyboards/drops)
+- [Drop](https://drop.com/mechanical-keyboards/drops)
 - [Wooting](https://wooting.io/)
 - [Shopkey](https://shopkey.doyustudio.com/)
 - [NovelKeys](https://novelkeys.xyz/)
