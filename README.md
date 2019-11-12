@@ -16,7 +16,9 @@ Mechanical keyboards related resources I have collected over the months.
 
 ### Websites
 
-List of websites with their popular offerings which are usually in stock. Most of these websites provide pcbs, full kits, and assembly services on request.
+List of websites with their popular offerings which are usually in stock. Most of 
+these websites provide pcbs, full kits, and assembly services on request. Please
+let me know if you find any mistakes or feel free to contribute.
 
 - [KeyHive](https://keyhive.xyz/shop)
 	- **Lily58 PRO** -  `60` `split` `columnar-staggered` 
@@ -43,10 +45,10 @@ List of websites with their popular offerings which are usually in stock. Most o
 	- **Terminus 2** - `60` `ortholinear`
 	- **Terminus Mini 2** - `40` `ortholinear`
 - [Profet Keyboards](https://shop.profetkeyboards.com/)
-	- **Atreus62** - `60` `columnar-staggered`
+	- **Atreus62** - `60` `split` `columnar-staggered`
 	- **Ergodox** - `60` `split` `columnar-staggered`
 	- **MiniDox** - `40` `split` `columnar-staggered`
-	- **Atreus** - `40` `columnar-staggered`
+	- **Atreus** - `40` `split` `columnar-staggered`
 - [KPrepublic](https://kprepublic.com/)
 	- **JJ40** - `40` `ortholinear`
 	- **Daisy**	-	`40` `staggered`
@@ -57,7 +59,11 @@ List of websites with their popular offerings which are usually in stock. Most o
 	- **XD96** - `90` `staggered`
 	-	**Ergodone** - `60` `split` `columnar-staggered`
 - [Prime Keyboards](https://www.primekb.com/collections/keyboards)
-- [TheVan Keyboards](https://thevankeyboards.com/)
+	- **Prime_E** - `40` `split` `staggered` `hot-swap` `usb-c`
+	- **Prime_L** - `65` `ortholinear` `usb-c`
+	- **Prime_O** - `80` `ortholinear`
+- [TheVan Keyboards](https://thevankeyboards.com/) _[store now closed]_
+	- **MiniVan** - `40` `staggered` `hot-swap` `usb-c`
 - [Flashquark](https://flashquark.com/)
 - [RAMA WORKS](https://rama.works/)
 - [1upkeyboards](https://www.1upkeyboards.com/)
