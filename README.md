@@ -90,6 +90,8 @@ let me know if you find any mistakes or feel free to contribute.
 
 - [switchTop](https://www.switchtop.com/)
 - [Mountain Blocks](https://mountainblocks.com/)
+- [KPrepublic](https://kprepublic.com/)
+- [Flashquark](https://flashquark.com/)
 
 #### Keycaps
 
