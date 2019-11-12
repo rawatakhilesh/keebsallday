@@ -48,6 +48,16 @@ List of websites with their popular offerings which are usually in stock. Most o
 	- **MiniDox** - `40` `split` `columnar-staggered`
 	- **Atreus** - `40` `columnar-staggered`
 - [KPrepublic](https://kprepublic.com/)
+	- **JJ40** - `40`
+	- **Daisy**	-	`40`
+	- **JJ50** - `50`
+	- **Satan60**	-	`60`
+	- **XD64** - `60`
+	- **JJ60A**	-	`60`
+	- **XD75** - `60`
+	- **XD84** - `75`
+	- **XD96** - `90`
+	-	**Ergodone** - `60`
 - [Prime Keyboards](https://www.primekb.com/collections/keyboards)
 - [TheVan Keyboards](https://thevankeyboards.com/)
 - [Flashquark](https://flashquark.com/)
