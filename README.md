@@ -1,13 +1,10 @@
 # Keebs All Day
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 [![Generic badge](https://img.shields.io/badge/In-progress-<COLOR>.svg)](https://shields.io/)
+[![HitCount](http://hits.dwyl.io/Naereen/badges.svg)](http://hits.dwyl.io/Naereen/badges)
 [![GitHub contributors](https://img.shields.io/github/contributors/Naereen/StrapDown.js.svg)](https://github.com/rawatakhilesh/keebs/graphs/contributors)
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 [![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://github.com/rawatakhilesh/keebs/stargazers)
-
-Mechanical keyboards related resources I have collected over the months.
-
-## Keyboards
 
 [r/mk](https://www.reddit.com/r/MechanicalKeyboards/) wiki has all the resources
  one needs to know about custom mechanical keyboards. This is a concise collection 
