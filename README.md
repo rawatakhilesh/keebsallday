@@ -13,9 +13,10 @@
 
 ### Websites
 
-List of websites with their popular offerings which are usually in stock. Most of 
-these websites provide pcbs, full kits, and assembly services on request. Please
-let me know if you find any mistakes or feel free to contribute.
+The main aim of this repository is to list mechanical keyboard related websites 
+with their popular offerings which are usually in stock. Most of these websites 
+provide pcbs, full kits, and assembly services on request. Please let me know if 
+you find any mistakes, and feel free to contribute.
 
 - [KeyHive](https://keyhive.xyz/shop)
 	- **Lily58 PRO** -  `60` `split` `columnar-staggered` 
