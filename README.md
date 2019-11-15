@@ -70,7 +70,14 @@ you find any mistakes, and feel free to contribute.
 	- **M60-A** - `60` `staggared` `hot-swap` `usb-c`
 - [1upkeyboards](https://www.1upkeyboards.com/)
 - [LAZYDESIGNERS](http://lazydesigners.cn/)
+	- **THE60** - `60` `staggared` `usb-c`
+	- **THE30** - `30` `staggared` `usb-c`
 - [Cannon Keys](https://cannonkeys.com/)
+	- **Ortho48** - `40` `ortholinear`
+	- **Ortho60** - `50` `ortholinear`
+	- **Practice60** - `60` `staggared`
+	- **Practice65** - `65` `staggared``
+	- **Ortho75** - `75` `ortholinear`
 - [Keycult](https://keycult.io/)
 - [Mekanisk](https://mekanisk.co/)
 - [5z6p Instruments](https://5z6p.com/)
