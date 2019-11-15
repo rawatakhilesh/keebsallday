@@ -1,13 +1,10 @@
 # Keebs All Day
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 [![Generic badge](https://img.shields.io/badge/In-progress-<COLOR>.svg)](https://shields.io/)
+[![HitCount](http://hits.dwyl.io/rawatakhilesh/keebsallday.svg)](http://hits.dwyl.io/rawatakhilesh/keebsallday)
 [![GitHub contributors](https://img.shields.io/github/contributors/Naereen/StrapDown.js.svg)](https://github.com/rawatakhilesh/keebs/graphs/contributors)
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 [![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://github.com/rawatakhilesh/keebs/stargazers)
-
-Mechanical keyboards related resources I have collected over the months.
-
-## Keyboards
 
 [r/mk](https://www.reddit.com/r/MechanicalKeyboards/) wiki has all the resources
  one needs to know about custom mechanical keyboards. This is a concise collection 
@@ -16,9 +13,10 @@ Mechanical keyboards related resources I have collected over the months.
 
 ### Websites
 
-List of websites with their popular offerings which are usually in stock. Most of 
-these websites provide pcbs, full kits, and assembly services on request. Please
-let me know if you find any mistakes or feel free to contribute.
+The main aim of this repository is to list mechanical keyboard related websites 
+with their popular offerings which are usually in stock. Most of these websites 
+provide pcbs, full kits, and assembly services on request. Please let me know if 
+you find any mistakes, and feel free to contribute.
 
 - [KeyHive](https://keyhive.xyz/shop)
 	- **Lily58 PRO** -  `60` `split` `columnar-staggered` 
