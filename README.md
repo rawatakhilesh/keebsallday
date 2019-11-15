@@ -76,7 +76,7 @@ you find any mistakes, and feel free to contribute.
 	- **Ortho48** - `40` `ortholinear`
 	- **Ortho60** - `50` `ortholinear`
 	- **Practice60** - `60` `staggared`
-	- **Practice65** - `65` `staggared``
+	- **Practice65** - `65` `staggared`
 	- **Ortho75** - `75` `ortholinear`
 - [Keycult](https://keycult.io/)
 - [Mekanisk](https://mekanisk.co/)
