@@ -66,7 +66,7 @@ you find any mistakes, and feel free to contribute.
 	- **Unnamed kit** - `100` `split` `staggered`
 - [RAMA WORKS](https://rama.works/)
 	- **M65-B** - `65` `staggared` `hot-swap` `usb-c`
-	- **U80-A** - `75` `staggared` `hot-swap` `usb-c`
+	- **U80-A** - `TKL` `staggared` `hot-swap` `usb-c`
 	- **M60-A** - `60` `staggared` `hot-swap` `usb-c`
 - [1upkeyboards](https://www.1upkeyboards.com/)
 - [LAZYDESIGNERS](http://lazydesigners.cn/)
@@ -79,6 +79,9 @@ you find any mistakes, and feel free to contribute.
 	- **Practice65** - `65` `staggared`
 	- **Ortho75** - `75` `ortholinear`
 - [Keycult](https://keycult.io/)
+	- **WT80-A** - `TKL` `staggared` `usb-c`
+	- **WT60-A** - `60` `staggared` `usb-c`
+	- **WT65-A** - `65` `staggared` `usb-c`
 - [Mekanisk](https://mekanisk.co/)
 - [5z6p Instruments](https://5z6p.com/)
 - [Drop](https://drop.com/mechanical-keyboards/drops)
@@ -101,6 +104,7 @@ you find any mistakes, and feel free to contribute.
 - [Mountain Blocks](https://mountainblocks.com/)
 - [KPrepublic](https://kprepublic.com/)
 - [Flashquark](https://flashquark.com/)
+- [Keycult](https://keycult.io/)
 
 #### Keycaps
 
