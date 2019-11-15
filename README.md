@@ -62,10 +62,14 @@ let me know if you find any mistakes or feel free to contribute.
 	- **Prime_E** - `40` `split` `staggered` `hot-swap` `usb-c`
 	- **Prime_L** - `65` `ortholinear` `usb-c`
 	- **Prime_O** - `80` `ortholinear`
-- [TheVan Keyboards](https://thevankeyboards.com/) _[store now closed]_
+- [TheVan Keyboards](https://thevankeyboards.com/) _[store closed for now]_
 	- **MiniVan** - `40` `staggered` `hot-swap` `usb-c`
 - [Flashquark](https://flashquark.com/)
+	- **Unnamed kit** - `100` `split` `staggered`
 - [RAMA WORKS](https://rama.works/)
+	- **M65-B** - `65` `staggared` `hot-swap` `usb-c`
+	- **U80-A** - `75` `staggared` `hot-swap` `usb-c`
+	- **M60-A** - `60` `staggared` `hot-swap` `usb-c`
 - [1upkeyboards](https://www.1upkeyboards.com/)
 - [LAZYDESIGNERS](http://lazydesigners.cn/)
 - [Cannon Keys](https://cannonkeys.com/)
