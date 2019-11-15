@@ -97,6 +97,7 @@ you find any mistakes, and feel free to contribute.
 - [MechanicalKeyboards](https://mechanicalkeyboards.com/shop/)
 - [WASD Keyboards](https://www.wasdkeyboards.com/)
 - [Little Keyboards](https://www.littlekeyboards.com/)
+- [g Heavy Industries](https://www.gboards.ca/)
 
 ### Keyboard Supplies and Accessories
 
