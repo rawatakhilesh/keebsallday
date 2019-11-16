@@ -109,7 +109,9 @@ you find any mistakes and feel free to contribute.
 	- **HS60 v2** - `60` `staggared` `hot-swap`
 	- **ErgoDox 76 "Hot Dox"** - `75` `split` `columnar-staggared`
 - [Play Keyboard](https://play-keyboard.store/)
+ 	- **Play Keyboard60** - `60` `staggared` `usb-c`
 - [RGBKB.net](https://www.rgbkb.net/)
+	- **The Sol 2** - `75` `split` `columnar-staggared`
 - [KBDfans](https://kbdfans.com/)
 - [Clueboard](https://clueboard.co/)
 - [Qlavier](https://www.qlavier.com/shop/)
