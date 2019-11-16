@@ -69,6 +69,12 @@ you find any mistakes, and feel free to contribute.
 	- **U80-A** - `TKL` `staggared` `hot-swap` `usb-c`
 	- **M60-A** - `60` `staggared` `hot-swap` `usb-c`
 - [1upkeyboards](https://www.1upkeyboards.com/)
+	- **Green with Envy** - `TKL` `staggared` 
+	- **GON NerD** - `TKL` `staggared`  
+	- **GON NerD 108** - `100` `staggared`  
+	- **GON NerD60** - `60` `staggared`
+	- **JD40** - `40` `staggared`
+	- **1UP RGB** - `60` `staggared` `hot-swap` `usb-c`
 - [LAZYDESIGNERS](http://lazydesigners.cn/)
 	- **THE60** - `60` `staggared` `usb-c`
 	- **THE30** - `30` `staggared` `usb-c`
@@ -82,12 +88,26 @@ you find any mistakes, and feel free to contribute.
 	- **WT80-A** - `TKL` `staggared` `usb-c`
 	- **WT60-A** - `60` `staggared` `usb-c`
 	- **WT65-A** - `65` `staggared` `usb-c`
-- [Mekanisk](https://mekanisk.co/)
+- [Mekanisk](https://mekanisk.co/) 
+	-	**Klippe S** - `60` `staggared` 
+	- **Klippe T** - `60` `staggared`
+	- **Fjell** - `60` `staggared`
 - [5z6p Instruments](https://5z6p.com/)
+	- **Plaid** - `40` `ortholinear`
+	- **Tartan** - `60` `staggared`
 - [Drop](https://drop.com/mechanical-keyboards/drops)
+	- **Drop ALT** - `75` `staggared` `hot-swap` `usb-c`
+	- **Drop CTRL** - `TKL` `staggared` `hot-swap` `usb-c`
 - [Wooting](https://wooting.io/)
+	- **Wooting One** - `TKL` `staggared` `hot-swap`
+	- **Wooting Two** - `100` `staggared` `hot-swap`
 - [Shopkey](https://shopkey.doyustudio.com/)
+	-	**Chiwi60** - `60` `staggared` `usb-c` 
 - [NovelKeys](https://novelkeys.xyz/)
+	- **h87a** - `TKL` `staggared` 
+	- **Gingham** - `60` `staggared`
+	- **HS60 v2** - `60` `staggared` `hot-swap`
+	- **ErgoDox 76 "Hot Dox"** - `75` `split` `columnar-staggared`
 - [Play Keyboard](https://play-keyboard.store/)
 - [RGBKB.net](https://www.rgbkb.net/)
 - [KBDfans](https://kbdfans.com/)
@@ -98,6 +118,8 @@ you find any mistakes, and feel free to contribute.
 - [WASD Keyboards](https://www.wasdkeyboards.com/)
 - [Little Keyboards](https://www.littlekeyboards.com/)
 - [g Heavy Industries](https://www.gboards.ca/)
+- [The Alpaca Store](https://shop.alpacakeyboards.com/`)
+  - **ErgoDox 76 "Hot Dox"** - `75` `split` `columnar-staggared`
 
 ### Keyboard Supplies and Accessories
 
@@ -106,8 +128,10 @@ you find any mistakes, and feel free to contribute.
 - [KPrepublic](https://kprepublic.com/)
 - [Flashquark](https://flashquark.com/)
 - [Keycult](https://keycult.io/)
-
-#### Keycaps
+- [1upkeyboards](https://www.1upkeyboards.com/)
+- [Drop](https://drop.com/mechanical-keyboards/drops)
+- [Shopkey](https://shopkey.doyustudio.com/)
+- [NovelKeys](https://novelkeys.xyz/)
 
 #### Cables
 
