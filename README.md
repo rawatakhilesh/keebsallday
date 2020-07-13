@@ -167,6 +167,9 @@ Please let me know if you find any mistakes and feel free to contribute.
     - **ErgoDox 76 "Hot Dox"** - `75` `split` `columnar-staggared`
 - [GLORIOUS PC GAMING RACE](https://www.pcgamingrace.com/)
     - **GMMK** - `100` `TKL` `60` `staggared` `hot-swap` `usb-c`
+- [Clawboards](https://www.clawboards.xyz/)
+    - **The Coupe** - `60` `staggared` `usb-c`
+	- **The Sedan** - `65` `staggared` `usb-c`
 
 ### Keyboard Supplies, Custom Cases and Accessories
 
@@ -184,6 +187,7 @@ Please let me know if you find any mistakes and feel free to contribute.
 - [MechanicalKeyboards](https://mechanicalkeyboards.com/shop/)
 - [GLORIOUS PC GAMING RACE](https://www.pcgamingrace.com/)
 - [WASD Keyboards](https://www.wasdkeyboards.com/)
+- [Clawboards](https://www.clawboards.xyz/shop)
 
 #### Cables
 
