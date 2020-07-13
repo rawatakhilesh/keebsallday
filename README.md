@@ -9,21 +9,26 @@
 [r/mk](https://www.reddit.com/r/MechanicalKeyboards/) wiki has all the resources
  one needs to know about custom mechanical keyboards. This is a concise collection 
  of links for people who are beginning to tinker into this hobby and see what is
- readily available.
+ readily available (YMMV).
 
 ### Websites
 
 The main aim of this repository is to list enthusiast mechanical keyboard related websites 
-with their popular offerings which are usually in stock. Most of these websites 
-provide PCBs, full kits, and assembly services on request. Please let me know if 
-you find any mistakes and feel free to contribute.
+with their popular offerings which are usually in stock (lol). Most of these websites 
+provide PCBs, full kits, and assembly services on request. I deliberately did not include group buys. 
+Please let me know if you find any mistakes and feel free to contribute.
+
+#### Format
+  - **Keyboard** - `40/60/65/..` `split/-` `staggered/-` `hot-swap` `usb-c` `....`
 
 - [KeyHive](https://keyhive.xyz/shop)
-	- **Lily58 PRO** -  `60` `split` `columnar-staggered` 
+	- **Lily58 PRO** -  `60` `split` `columnar-staggered`
 	- **UT47.2** - `40` `staggered` `hot-swap` `usb-c`
 	- **Nightmare** - `40` `staggered`
 	- **Corne Helidox** - `40` `split` `columnar-staggered` `hot-swap`
 	- **Ergo42** - `40` `split` `ortholinear`
+	- **Lattice** - '60` `staggered`
+	- **Plaid** - `40` `ortholinear` 
 - [OLKB](https://olkb.com/)
 	- **Planck** - `40` `ortholinear` `hot-swap` `usb-c`
 	- **Preonic** - `50` `ortholinear` `hot-swap` `usb-c`
@@ -34,6 +39,13 @@ you find any mistakes and feel free to contribute.
 	- **Levinson** - `40` `split` `ortholinear` 
 	- **Viterbi** - `70` `split` `ortholinear`
 	- **BFO-9000** - `100` `split` `ortholinear`
+	- **Sinc** - `75` `split` `staggered` 
+	- **JNAO** - `40/50` `ortholinear` `usb-c`
+	- **~RAKK Lam-Ang Pro** - `80` `staggered` `usb-c` `bluetooth`
+	- **KBO-5000** - `80` `split` `staggered`
+	- **Ergodicity** - `60` `staggered` `usb-c` `low-profile`
+	- **Laplace** - `40` `staggered`
+	- **Rorschach** - `40` `split` `ortholinear`
 - [ErgoDox EZ](https://ergodox-ez.com/)
 	- **Ergodox EZ** - `60` `split` `columnar-staggered` `hot-swap` `usb-c`
 	- **Planck EZ** - `40` `ortholinear` `hot-swap` `usb-c`
@@ -49,13 +61,22 @@ you find any mistakes and feel free to contribute.
 	- **Atreus** - `40` `split` `columnar-staggered`
 - [KPrepublic](https://kprepublic.com/)
 	- **JJ40** - `40` `ortholinear`
-	- **Daisy**	-	`40` `staggered`
+	- **BM40** - `40` `ortholinear` `hot-swap` `usb-c`	
+	- **Daisy**	- `40` `staggered`
+	- **BM43A**	- `40` `staggered` `usb-c`
 	- **JJ50** - `50` `ortholinear`
+	- **SP50** -  `50` `ortholinear` `split`
+	- **DIERYA** - `60` `staggered` `usb-c` `bluetooth`
+	- **BM60** - `60` `staggered` `hot-swap` `usb-c`
 	- **XD64** - `60` `staggered` `usb-c`
+	- **GK64S** - `60` `staggered` `hot-swap` `usb-c` `bluetooth`
+	- **XD68** - `65` `staggered` `usb-c`
 	- **XD75** - `60` `ortholinear` `hot-swap`
 	- **XD84** - `75` `staggered`
+	- **XD87** - `80` `staggered` `usb-c`
 	- **XD96** - `90` `staggered`
-	-	**Ergodone** - `60` `split` `columnar-staggered`
+	- **YC96** - `100` `staggered` `hot-swap` `usb-c` `bluetooth`
+	- **Ergodone** - `60` `split` `columnar-staggered`
 - [Prime Keyboards](https://www.primekb.com/collections/keyboards)
 	- **Prime_E** - `40` `split` `staggered` `hot-swap` `usb-c`
 	- **Prime_L** - `65` `ortholinear` `usb-c`
@@ -65,6 +86,7 @@ you find any mistakes and feel free to contribute.
 - [Flashquark](https://flashquark.com/)
 	- **Unnamed kit** - `100` `split` `staggered`
 - [RAMA WORKS](https://rama.works/)
+	- **M50-A** - `50` `ortholinear` `hot-swap` `usb-c`
 	- **M65-B** - `65` `staggared` `hot-swap` `usb-c`
 	- **U80-A** - `TKL` `staggared` `hot-swap` `usb-c`
 	- **M60-A** - `60` `staggared` `hot-swap` `usb-c`
@@ -89,7 +111,7 @@ you find any mistakes and feel free to contribute.
 	- **WT60-A** - `60` `staggared` `usb-c`
 	- **WT65-A** - `65` `staggared` `usb-c`
 - [Mekanisk](https://mekanisk.co/) 
-	-	**Klippe S** - `60` `staggared` 
+	- **Klippe S** - `60` `staggared` 
 	- **Klippe T** - `60` `staggared`
 	- **Fjell** - `60` `staggared`
 - [5z6p Instruments](https://5z6p.com/)
@@ -102,29 +124,53 @@ you find any mistakes and feel free to contribute.
 	- **Wooting One** - `TKL` `staggared` `hot-swap`
 	- **Wooting Two** - `100` `staggared` `hot-swap`
 - [Shopkey](https://shopkey.doyustudio.com/)
-	-	**Chiwi60** - `60` `staggared` `usb-c` 
+	- **Chiwi60** - `60` `staggared` `usb-c` 
 - [NovelKeys](https://novelkeys.xyz/)
 	- **h87a** - `TKL` `staggared` 
 	- **Gingham** - `60` `staggared`
 	- **HS60 v2** - `60` `staggared` `hot-swap`
 	- **ErgoDox 76 "Hot Dox"** - `75` `split` `columnar-staggared`
 - [Play Keyboard](https://play-keyboard.store/)
- 	- **Play Keyboard60** - `60` `staggared` `usb-c`
+    - **Play Keyboard60** - `60` `staggared` `usb-c`
 - [RGBKB.net](https://www.rgbkb.net/)
 	- **The Sol 2** - `75` `split` `columnar-staggared`
 - [KBDfans](https://kbdfans.com/)
+    - **NIU40** - `40` `ortholinear`
+    - **TOFU60** - `60` `staggared` `usb-c`
+    - **TOFU65** - `65` `staggared` `usb-c`
+    - **TADA68** - `65` `staggared`
+    - **KBD75** - `75` `staggared` 
+    - **KBD19X** - `100` `staggared`
+    - **PFU HHKB PRO 2/TYPE-S** - `60` `staggared`
 - [Clueboard](https://clueboard.co/)
-- [Qlavier](https://www.qlavier.com/shop/)
-- [PIMP MY KEYBOARD](https://pimpmykeyboard.com/)
+	- **Clueboard 66%** - `65` `staggared`
 - [MechanicalKeyboards](https://mechanicalkeyboards.com/shop/)
+	- [Shop By Brand](https://mechanicalkeyboards.com/shop/index.php?l=product_list&c=110)
 - [WASD Keyboards](https://www.wasdkeyboards.com/)
-- [Little Keyboards](https://www.littlekeyboards.com/)
+    - **V3** - `100` `TKL` `60` `staggared` `usb-c` 
+- [LITTLE KEYBOARDS](https://www.littlekeyboards.com/)
+	- **Reviung39** - `40` `split` `columnar-staggared`
+	- **Reviung41** - `40` `split` `columnar-staggared`
+	- **Pinky3** - `40` `split` `ortholinear` `hot-swap`
+	- **Pinky4** - `40` `split` `ortholinear` `hot-swap`
+	- **Naked60BMP** - `60` `ortholinear` `hot-swap` `low-profile`
+	- **Naked48LED** - `40` `ortholinear` `low-profile`
+	- **Kyria** - `40` `split` `columnar-staggared`
+	- **Helix** - `50` `split` `ortholinear` `hot-swap`
+	- **Corne** - `40` `split` `columnar-staggared`
+	- **Lily58** -  `60` `split` `columnar-staggared`
 - [g Heavy Industries](https://www.gboards.ca/)
+    - **Gergo** - `40` `split` `columnar-staggared` `low-profile`
+	- **GergoPlex** - `40` `split` `columnar-staggared` `low-profile`
+	- **BuzzSaw** - `40` `split` `staggared` `low-profile`
 - [The Alpaca Store](https://shop.alpacakeyboards.com/`)
-  - **ErgoDox 76 "Hot Dox"** - `75` `split` `columnar-staggared`
+    - **ErgoDox 76 "Hot Dox"** - `75` `split` `columnar-staggared`
+- [GLORIOUS PC GAMING RACE](https://www.pcgamingrace.com/)
+    - **GMMK** - `100` `TKL` `60` `staggared` `hot-swap` `usb-c`
 
-### Keyboard Supplies and Accessories
+### Keyboard Supplies, Custom Cases and Accessories
 
+- [Qlavier](https://www.qlavier.com/shop/)
 - [switchTop](https://www.switchtop.com/)
 - [Mountain Blocks](https://mountainblocks.com/)
 - [KPrepublic](https://kprepublic.com/)
@@ -134,6 +180,10 @@ you find any mistakes and feel free to contribute.
 - [Drop](https://drop.com/mechanical-keyboards/drops)
 - [Shopkey](https://shopkey.doyustudio.com/)
 - [NovelKeys](https://novelkeys.xyz/)
+- [PIMP MY KEYBOARD](https://pimpmykeyboard.com/)
+- [MechanicalKeyboards](https://mechanicalkeyboards.com/shop/)
+- [GLORIOUS PC GAMING RACE](https://www.pcgamingrace.com/)
+- [WASD Keyboards](https://www.wasdkeyboards.com/)
 
 #### Cables
 
@@ -150,6 +200,8 @@ you find any mistakes and feel free to contribute.
 - [minimalistik](https://www.youtube.com/channel/UCZv7dyFdg4DIph6TIBlaVSQ)
 - [TaeKeyboards](https://www.youtube.com/channel/UCllGwtW6scxAjM28fIgEozg)
 - [randomfrankp](https://www.youtube.com/user/randomfrankp)
+- [:3ildcat](https://www.youtube.com/user/jseom)
+- [CruzCtrl](https://www.youtube.com/channel/UCz0rP0zC9ryFnLIwi_uOYoA)
 
 ### Open Source Resources
 
