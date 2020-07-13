@@ -27,7 +27,7 @@ Please let me know if you find any mistakes and feel free to contribute.
 	- **Nightmare** - `40` `staggered`
 	- **Corne Helidox** - `40` `split` `columnar-staggered` `hot-swap`
 	- **Ergo42** - `40` `split` `ortholinear`
-	- **Lattice** - '60` `staggered`
+	- **Lattice** - `60` `staggered`
 	- **Plaid** - `40` `ortholinear` 
 - [OLKB](https://olkb.com/)
 	- **Planck** - `40` `ortholinear` `hot-swap` `usb-c`
