@@ -170,6 +170,16 @@ Please let me know if you find any mistakes and feel free to contribute.
 - [Clawboards](https://www.clawboards.xyz/)
     - **The Coupe** - `60` `staggared` `usb-c`
 	- **The Sedan** - `65` `staggared` `usb-c`
+- [Keychron](https://www.keychron.com/)
+	- **K1** - `TKL` `100` `staggared` `low-profile` `usb-c` `bluetooth`
+	- **K2** - `75` `staggared` `hot-swap` `usb-c` `bluetooth`
+	- **K4** - `96` `staggared` `usb-c` `bluetooth`
+	- **K6** - `65` `staggared` `hot-swap` `usb-c` `bluetooth`
+	- **K8** - `TKL` `staggared` `hot-swap` `usb-c` `bluetooth`
+	- **K3** - `65` `staggared` `hot-swap` `low-profile` `usb-c` `bluetooth`
+- [NuPhy](https://nuphy.com/)
+	- **F1** - `60` `staggared` `low-profile` `usb-c` `bluetooth`
+
 
 ### Keyboard Supplies, Custom Cases and Accessories
 
